@@ -1,0 +1,7 @@
+F:\dotnet\csharpdemos\playground\Labs1\bin\Debug\Labs1.exe.config
+F:\dotnet\csharpdemos\playground\Labs1\bin\Debug\Labs1.exe
+F:\dotnet\csharpdemos\playground\Labs1\bin\Debug\Labs1.pdb
+F:\dotnet\csharpdemos\playground\Labs1\obj\Debug\Labs1.csproj.AssemblyReference.cache
+F:\dotnet\csharpdemos\playground\Labs1\obj\Debug\Labs1.csproj.CoreCompileInputs.cache
+F:\dotnet\csharpdemos\playground\Labs1\obj\Debug\Labs1.exe
+F:\dotnet\csharpdemos\playground\Labs1\obj\Debug\Labs1.pdb

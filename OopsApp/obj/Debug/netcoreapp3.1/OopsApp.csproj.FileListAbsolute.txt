@@ -1,0 +1,13 @@
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.csproj.AssemblyReference.cache
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.AssemblyInfoInputs.cache
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.AssemblyInfo.cs
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.csproj.CoreCompileInputs.cache
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.exe
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.deps.json
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.runtimeconfig.json
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.runtimeconfig.dev.json
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.dll
+F:\dotnet\csharpdemos\playground\OopsApp\bin\Debug\netcoreapp3.1\OopsApp.pdb
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.dll
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.pdb
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Debug\netcoreapp3.1\OopsApp.genruntimeconfig.cache

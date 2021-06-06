@@ -1,0 +1,4 @@
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Release\netcoreapp3.1\OopsApp.csproj.AssemblyReference.cache
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Release\netcoreapp3.1\OopsApp.AssemblyInfoInputs.cache
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Release\netcoreapp3.1\OopsApp.AssemblyInfo.cs
+F:\dotnet\csharpdemos\playground\OopsApp\obj\Release\netcoreapp3.1\OopsApp.csproj.CoreCompileInputs.cache
